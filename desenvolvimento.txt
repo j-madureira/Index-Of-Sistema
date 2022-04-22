@@ -1,0 +1,29 @@
+Boas vindas ao cliente
+- Receber o nome do cliente
+- Informar para que o cliente faça cadastro
+
+CADASTRO 
+- Criar o nome de usuário
+- Criar a senha 
+
+LOGIN
+- Receber o nome de usuário 
+- Receber a senha 
+
+AO LOGAR 
+- Informar ao sistema que o cliente está conectado
+- Mostrar o cardápio de lanches
+- Receber o pedido do lanche 
+- Mostrar o cardápio de bebidas 
+- Receber o pedido da bebida 
+
+-LOCALIZAÇÃO PARA ENTREGA
+- Cidade do cliente
+- Bairro do cliente
+- Rua do cliente
+- Número da casa
+
+-FINALIZAÇÃO
+
+- Informar ao sistema que o pedido foi finalizado e que está a caminho!
+- Informar ao sistema o pedido do cliente e onde é para entregar
